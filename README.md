@@ -42,6 +42,7 @@ TermiCam/
 ├── snapshot.txt          # Exported ASCII Captures
 └── dist/                 # Standalone Executables (.exe)
 
+```
 ---
 
 ## 🎨 Command Reference
