@@ -59,15 +59,21 @@ TermiCam/
 ---
 
 ## 🚀 How to Run
-Quick Start
-**Install Dependencies**:
-'pip install -r requirements.txt'
+#### Quick Start
+**Install Dependencies:**
+```bash
+pip install -r requirements.txt
+```
 
-**Launch Application**:
-'python cam.py'
+**Launch Application:**
+```bash
+python cam.py
+```
 
-Production Build (Standalone EXE)
-To create a portable version for Windows: pyinstaller --onefile --name TermiCam cam.py
+**Production Build (Standalone EXE) To create a portable version for Windows:**
+```bash
+pyinstaller --onefile --name TermiCam cam.py
+```
 
 **Developer Note**: This project demonstrates the intersection of Computer Vision (CV) and Terminal User Interfaces (TUI), specifically focusing on real-time signal processing and buffer management.
 
