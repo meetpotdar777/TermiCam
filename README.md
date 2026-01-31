@@ -60,14 +60,14 @@ TermiCam/
 
 ## 🚀 How to Run
 ```bash
-Quick Start
-Install Dependencies:
+# Quick Start
+# Install Dependencies:
 pip install -r requirements.txt
 
-Launch Application:
+# Launch Application:
 python cam.py
 
-Production Build (Standalone EXE) To create a portable version for Windows:
+# Production Build (Standalone EXE) To create a portable version for Windows:
 pyinstaller --onefile --name TermiCam cam.py
 
 ```
